@@ -1,2 +1,0 @@
-# Checklistan
-Demo of checklist
